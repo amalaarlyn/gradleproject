@@ -1,0 +1,11 @@
+body{
+    background-color: cornflowerblue;
+
+}
+.container{
+    width: 300px;
+    background-color: beige;
+    border-radius: 10px;
+}
+
+
