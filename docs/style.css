@@ -4,8 +4,11 @@ body{
 }
 .container{
     width: 300px;
+    height: 800px;
+    align-content: center;
     background-color: beige;
     border-radius: 10px;
 }
+
 
 
